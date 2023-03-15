@@ -58,6 +58,7 @@ ul {
   border-bottom: #E8B11B;
   border-width:0.5px;
   border-style:solid;
+
 }
 .navbar .brand {
   display:inline-flex;
@@ -77,7 +78,7 @@ ul {
 .navbar ul {
   display:inline-flex;
   gap:30px;
-  width:30%;
+  width:40%;
 }
 .navbar ul .nav-item {
   background:none;
